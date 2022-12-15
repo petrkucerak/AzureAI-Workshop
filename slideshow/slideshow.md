@@ -35,19 +35,19 @@ size: 16:9
 
 ---
 
-<!-- Epic Ilustration of Artificial Intelligence -->
+<!-- DALEE intput: Epic Ilustration of Artificial Intelligence -->
 
 ![cover bg](assets/04.png)
 
 ---
 
-<!-- Epic Ilustration of Artificial Intelligence -->
+<!-- DALEE intput: Epic Ilustration of Artificial Intelligence -->
 
 ![cover bg](assets/03.png)
 
 ---
 
-<!-- Epic Ilustration of Artificial Intelligence -->
+<!-- DALEE intput: Epic Ilustration of Artificial Intelligence -->
 
 ![cover bg](assets/02.png)
 
@@ -82,7 +82,7 @@ size: 16:9
 - sumarizace textu, chatbots, ...
 
 <!--
-
+OBLASTI
 - finance, datová analýza a predikce dat (burza, marketing, rozmístění zboží, ...) Machine Learning a datová analýza, realtime data
 - text2speech - syntetizace zvuku
 - zpracování obrazu (obličej, text, znaky, účtenky a&nbsp;faktury, ...)
@@ -107,17 +107,15 @@ size: 16:9
 
 <!--
 
-# ChatGPT:
+ChatGPT:
 - Napiš kód pro otestování rychlosti přenosu paketů v jazyce C.
 - Jaký má přínos hra člověče nezlob se pro děti v předškolním věku?
 
-# DALLE:
+DALLE:
 - a ship in the middle of a storm
 
 -->
 ---
-
-<!-- 2 osobne nejblizsi temata -->
 
 # Praxe
 ## Autonomní auta
@@ -130,8 +128,10 @@ size: 16:9
 ![bg right:60% cover](assets/05.png)
 
 <!--
+ 
+Představení osobně 2 nejbližších témat
 
-### Města v pilotním programu
+MĚSTA V PILOTNÍM PROGRAMU
 
 *Ruzne zdroje, ruzne nazory*
 
@@ -183,6 +183,8 @@ IoT, 5G, AI
 
 <!-- 
 
+OTÁZKY A VÝZVY, KTERÉ STOJÍ PŘED NÁMI
+
 - O čem nevíme? Válka přispívá rozvoji, co přinese konflikt na ukrajině?
 - Problematika výpočetního výkonu - edge computing
 - Problematika data pro učení
@@ -191,3 +193,13 @@ IoT, 5G, AI
  
 -->
 
+---
+<!-- Dalle inputMicrosoft Azure 3D ilustration -->
+
+![bg cover](assets/10.png)
+
+---
+
+<!-- Druha část - Azure a AI služby -->
+
+# Azure a AI
