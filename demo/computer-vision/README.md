@@ -29,4 +29,5 @@ Se službou budeme komunikovat pomocí rozhrání API a nechat ji vytahnout text
    ```
 ## Reference
 
+https://studuj.digital/2020/05/17/podobne-obrazky/
 https://learn.microsoft.com/cs-cz/azure/cognitive-services/Computer-vision/quickstarts-sdk/client-library?pivots=programming-language-python&tabs=visual-studio
