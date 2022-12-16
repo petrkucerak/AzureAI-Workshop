@@ -383,3 +383,21 @@ Azure Machine Learning
     - error analytics
     - audits
 -->
+
+---
+
+# DEMA
+
+- Visions
+  - Computer vision
+  - Custom vision
+- MLS
+- Text2Speech
+
+![bg fit right:40%](assets/qrcode.png)
+
+<!-- Jaka temata demicek nas cekaji? -->
+
+---
+
+![bg cover](assets/13.png)
