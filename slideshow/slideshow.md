@@ -203,3 +203,36 @@ OTÁZKY A VÝZVY, KTERÉ STOJÍ PŘED NÁMI
 <!-- Druha část - Azure a AI služby -->
 
 # Azure a AI
+
+- [Azure Applied AI Services](https://azure.microsoft.com/en-us/products/applied-ai-services/#overview)
+- [Azure Cognitive Services](https://azure.microsoft.com/en-us/products/cognitive-services/)
+- [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/#product-overview)
+- [AI infrastructure](https://www.microsoft.com/en-us/research/project/ai-at-scale/)
+
+<!--
+Na strankach MSFT o Azure AI, 4 kategorie
+
+- Azure Applied AI Services (aplikovane sluzby) 
+  - Bot Services
+  - Form Recognizer
+  - Cognitive Search (AI cloud search)
+  - Metrics Advisor (sledovani metrik a analyza incidentu)
+  - Video Indexor (extrakce vyznamu z audia nebo videoa)
+  - Immersive Reader
+- Azure Cognitive Services (jake mame smysly, ne doslova)
+  - Speech (speech2text, text2speech, speech transaltion, speaker recognition)
+  - Language (entity recognition, question answeing, translator, ...)
+  - Vision (computer, custom fision, face API)
+  - decision (anomaly detector, content moderator, personalizer)
+  - Azure openAI Serivces (vyuziti jiz existujicich opensource modelu jako DALL-E 2, GPT-3, ...)
+- Azure Machine Learning
+  - spracovani datasetu (oznaceni, uprava, kompletovani)
+  - civceni a buildeni modelu
+  - deploying a nasazeni do provozu (CI/CD pipelines, endpoins, ...)
+  - monitorovani a sprava
+- AI infrastructures
+  - bezi na FPGAckach, kteras se prizpusobuji potrebam vypoctu
+
+
+
+-->
