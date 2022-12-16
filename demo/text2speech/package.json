@@ -1,0 +1,12 @@
+{
+  "name": "text2speech",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "text2speech": "node -e 'require(\"./text2speech\").text2speech()'"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "microsoft-cognitiveservices-speech-sdk": "^1.24.1"
+  }
+}
