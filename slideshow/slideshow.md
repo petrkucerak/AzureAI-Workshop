@@ -401,3 +401,36 @@ Azure Machine Learning
 ---
 
 ![bg cover](assets/13.png)
+
+<!-- Computer Vision -->
+
+---
+![bg cover](assets/14.png)
+
+<!-- Custom Vision -->
+
+---
+
+![bg cover](assets/15.png)
+
+<!-- Text To Speech -->
+
+---
+
+![bg cover](assets/16.png)
+
+<!-- Machine Learning Studio -->
+
+---
+
+# Problémy
+
+- vytvoř ze svého článku na [studuj.digital](https://studuj.digital/) podcast pomocí Azure AI služeb
+- uměj naskenovat obash účtenky
+- poznej náladu člověk z jeho výrazu
+- predikuj výrobu z dat na [Kaggle](https://www.kaggle.com/)
+- vycvič model na poznávání typů aut
+
+---
+
+![bg cover](assets/17.png)
