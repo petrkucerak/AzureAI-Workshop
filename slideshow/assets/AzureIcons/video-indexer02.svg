@@ -1,0 +1,24 @@
+<svg data-slug-id="video-indexer02" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+<defs>
+<linearGradient id="video-indexer02_paint0_linear" x1="-418.126" y1="-223.397" x2="-418.126" y2="-206.119" gradientTransform="matrix(1, 0, 0, -1, 427.126, -205.758)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0078d4"/>
+<stop offset="0.817" stop-color="#5ea0ef"/>
+</linearGradient>
+<linearGradient id="video-indexer02_paint1_linear" x1="-424.341" y1="-209.246" x2="-424.341" y2="-220.269" gradientTransform="matrix(1, 0, 0, -1, 427.126, -205.758)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9cebff"/>
+<stop offset="1" stop-color="#50e6ff"/>
+</linearGradient>
+<linearGradient id="video-indexer02_paint2_linear" x1="-418.631" y1="-209.246" x2="-418.631" y2="-220.269" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9cebff"/>
+<stop offset="1" stop-color="#50e6ff"/>
+</linearGradient>
+<linearGradient id="video-indexer02_paint3_linear" x1="-418.631" y1="-209.246" x2="-418.631" y2="-220.269" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9cebff"/>
+<stop offset="1" stop-color="#50e6ff"/>
+</linearGradient>
+</defs>
+<path d="M1.379.862A.5.5,0,0,1,2.127.428L16.369,8.566a.5.5,0,0,1,0,.868L2.127,17.572a.5.5,0,0,1-.748-.434ZM4.191,4.847v8.306L11.46,9Z" fill-rule="evenodd" fill="url(#video-indexer02_paint0_linear)"/>
+<path d="M1.379,11V7H4.191v4Z" fill="url(#video-indexer02_paint1_linear)"/>
+<path d="M10.9,12.558,7.484,14.511l-1.4-2.442,3.419-1.953Z" fill="url(#video-indexer02_paint2_linear)"/>
+<path d="M7.484,3.489,10.9,5.442,9.507,7.884,6.088,5.931Z" fill="url(#video-indexer02_paint3_linear)"/>
+</svg>

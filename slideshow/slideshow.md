@@ -212,27 +212,174 @@ OTÁZKY A VÝZVY, KTERÉ STOJÍ PŘED NÁMI
 <!--
 Na strankach MSFT o Azure AI, 4 kategorie
 
-- Azure Applied AI Services (aplikovane sluzby) 
+Otakzaaa?
+
+- AI infrastructures
+  - bezi na FPGAckach, kteras se prizpusobuji potrebam vypoctu
+
+-->
+
+---
+
+# Azure Applied AI Services
+
+![bg cover](assets/11.png)
+
+<!--
+Azure Applied AI Services (aplikovane sluzby) 
   - Bot Services
   - Form Recognizer
   - Cognitive Search (AI cloud search)
   - Metrics Advisor (sledovani metrik a analyza incidentu)
   - Video Indexor (extrakce vyznamu z audia nebo videoa)
   - Immersive Reader
-- Azure Cognitive Services (jake mame smysly, ne doslova)
+
+-->
+
+---
+
+# Azure Cognitive Services
+
+- speech
+- language
+- vision
+- decision
+- OpenAI
+
+![bg right:60% cover](assets/12.png)
+
+
+
+<!--
+
+DALL-E input: digital art Congitive Services 
+
+Azure Cognitive Services (jake mame smysly, ne doslova)
   - Speech (speech2text, text2speech, speech transaltion, speaker recognition)
   - Language (entity recognition, question answeing, translator, ...)
   - Vision (computer, custom fision, face API)
   - decision (anomaly detector, content moderator, personalizer)
   - Azure openAI Serivces (vyuziti jiz existujicich opensource modelu jako DALL-E 2, GPT-3, ...)
-- Azure Machine Learning
+-->
+
+---
+
+# Azure Machine Learning
+
+## Příprava dat
+
+![bg fit](assets/MachineLearningCycle/prepare-data.png)
+
+<!-- 
+Azure Machine Learning
   - spracovani datasetu (oznaceni, uprava, kompletovani)
   - civceni a buildeni modelu
-  - deploying a nasazeni do provozu (CI/CD pipelines, endpoins, ...)
+    - CLI, Python SDK
+    - Notebooks
+    - Automated
+    - VS Code supports
+    - Drag-and/Drop designer
+    - Fraimeworks (TenserFlow, PyTorch, ...)
+  - deploying a nasazeni do provozu
+    - CI/CD pipelines
+    - AI endpoins
+    - optimalization
+    - hybrid and multicloud
+    - mode repository
+    - prebuilt images
   - monitorovani a sprava
-- AI infrastructures
-  - bezi na FPGAckach, kteras se prizpusobuji potrebam vypoctu
+    - policies
+    - security
+    - error analytics
+    - audits
+-->
+---
+# Azure Machine Learning
 
+## Trénování modelu
 
+![bg fit](assets/MachineLearningCycle/build-and-train.png)
 
+<!-- 
+Azure Machine Learning
+  - spracovani datasetu (oznaceni, uprava, kompletovani)
+  - civceni a buildeni modelu
+    - CLI, Python SDK
+    - Notebooks
+    - Automated
+    - VS Code supports
+    - Drag-and/Drop designer
+    - Fraimeworks (TenserFlow, PyTorch, ...)
+  - deploying a nasazeni do provozu
+    - CI/CD pipelines
+    - AI endpoins
+    - optimalization
+    - hybrid and multicloud
+    - mode repository
+    - prebuilt images
+  - monitorovani a sprava
+    - policies
+    - security
+    - error analytics
+    - audits
+-->
+---
+# Azure Machine Learning
+
+## Validování a nasazení
+
+![bg fit](assets/MachineLearningCycle/validate-and-deploy.png)
+
+<!-- 
+Azure Machine Learning
+  - spracovani datasetu (oznaceni, uprava, kompletovani)
+  - civceni a buildeni modelu
+    - CLI, Python SDK
+    - Notebooks
+    - Automated
+    - VS Code supports
+    - Drag-and/Drop designer
+    - Fraimeworks (TenserFlow, PyTorch, ...)
+  - deploying a nasazeni do provozu
+    - CI/CD pipelines
+    - AI endpoins
+    - optimalization
+    - hybrid and multicloud
+    - mode repository
+    - prebuilt images
+  - monitorovani a sprava
+    - policies
+    - security
+    - error analytics
+    - audits
+-->
+---
+# Azure Machine Learning
+
+## Monitorování a správa
+
+![bg fit](assets/MachineLearningCycle/manage-and-monitor.png)
+
+<!-- 
+Azure Machine Learning
+  - spracovani datasetu (oznaceni, uprava, kompletovani)
+  - civceni a buildeni modelu
+    - CLI, Python SDK
+    - Notebooks
+    - Automated
+    - VS Code supports
+    - Drag-and/Drop designer
+    - Fraimeworks (TenserFlow, PyTorch, ...)
+  - deploying a nasazeni do provozu
+    - CI/CD pipelines
+    - AI endpoins
+    - optimalization
+    - hybrid and multicloud
+    - mode repository
+    - prebuilt images
+  - monitorovani a sprava
+    - policies
+    - security
+    - error analytics
+    - audits
 -->
