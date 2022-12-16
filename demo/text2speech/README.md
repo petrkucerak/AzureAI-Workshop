@@ -22,7 +22,9 @@ V tomto DEMU si ukážeme jak vytvořit Speech Services na Azure pomocí Azure p
 
 ## Online prostredi
 
+*Prace pomoci weboveho portalu komunikujicim s modelem pres API.*
 
+https://speech.microsoft.com/
 
 ## Reference
 
