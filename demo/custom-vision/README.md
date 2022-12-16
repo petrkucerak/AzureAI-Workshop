@@ -1,6 +1,6 @@
 # Custom Vision
 
-V tomto DEMU si ukážeme jak pracovat s Custom Vision.
+V tomto DEMU si ukážeme jak pracovat s Custom Vision. K tomu pouzijeme webovy portal, ktery s modelem komunikuje pomoci REST API. Nebude tedy treba vyuzit zadneho kodu.
 
 ## Vytvoření prostředků na Azure
 
@@ -16,5 +16,4 @@ V tomto DEMU si ukážeme jak pracovat s Custom Vision.
 
 ## Reference
 
-https://studuj.digital/2020/05/17/podobne-obrazky/
-https://learn.microsoft.com/cs-cz/azure/cognitive-services/Computer-vision/quickstarts-sdk/client-library?pivots=programming-language-python&tabs=visual-studio
+https://studuj.digital/2020/04/18/custom-vision-uvod/
